@@ -1,0 +1,15 @@
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\bin\Debug\net6.0\Using_Anonymous_Types.exe
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\bin\Debug\net6.0\Using_Anonymous_Types.deps.json
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\bin\Debug\net6.0\Using_Anonymous_Types.runtimeconfig.json
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\bin\Debug\net6.0\Using_Anonymous_Types.dll
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\bin\Debug\net6.0\ref\Using_Anonymous_Types.dll
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\bin\Debug\net6.0\Using_Anonymous_Types.pdb
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.csproj.AssemblyReference.cache
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.AssemblyInfoInputs.cache
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.AssemblyInfo.cs
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.csproj.CoreCompileInputs.cache
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.dll
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\ref\Using_Anonymous_Types.dll
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.pdb
+C:\Users\se_ja\Desktop\Using_Anonymous_Types\obj\Debug\net6.0\Using_Anonymous_Types.genruntimeconfig.cache
